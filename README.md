@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When does it get “BETTER”?](https://medium.com/@mushroom111201/when-does-it-get-better-6c34f027cf35?source=rss-0facc4e2fda7------2)
 - [It’s been a while!](https://medium.com/@mushroom111201/its-been-a-while-f6e6a9903923?source=rss-0facc4e2fda7------2)
 - [You think you are so great huh!?](https://medium.com/@mushroom111201/you-think-you-are-so-great-huh-30aed938c096?source=rss-0facc4e2fda7------2)
 - [I’m Done Pretending](https://medium.com/@mushroom111201/im-done-pretending-30e03d337741?source=rss-0facc4e2fda7------2)
 - [The Quiet Joy](https://medium.com/@mushroom111201/the-quiet-joy-261ac0338324?source=rss-0facc4e2fda7------2)
-- [Is This you?](https://medium.com/@mushroom111201/is-this-you-bfee8cc4eefa?source=rss-0facc4e2fda7------2)
 <!-- BLOG-POST-LIST:END -->
 ### ✍️ I quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Nothing%20changes%20if%20nothing%20changes&author=Unknown)
