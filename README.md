@@ -13,7 +13,7 @@
 - [The Waiting Room](https://medium.com/@mushroom111201/the-waiting-room-d02fffd460ae?source=rss-0facc4e2fda7------2)
 - [The Days I Don’t Want to Be Around Anyone](https://medium.com/@mushroom111201/the-days-i-dont-want-to-be-around-anyone-c0bab9e1066e?source=rss-0facc4e2fda7------2)
 - [When does it get “BETTER”?](https://medium.com/@mushroom111201/when-does-it-get-better-6c34f027cf35?source=rss-0facc4e2fda7------2)
-- [It’s been a while!](https://medium.com/@mushroom111201/its-been-a-while-f6e6a9903923?source=rss-0facc4e2fda7------2)
+- [Are you wasting your life?](https://medium.com/@mushroom111201/its-been-a-while-f6e6a9903923?source=rss-0facc4e2fda7------2)
 - [You think you are so great huh!?](https://medium.com/@mushroom111201/you-think-you-are-so-great-huh-30aed938c096?source=rss-0facc4e2fda7------2)
 <!-- BLOG-POST-LIST:END -->
 ### ✍️ I quote
