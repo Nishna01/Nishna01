@@ -10,11 +10,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [how relatable do you have to be?](https://medium.com/@mushroom111201/how-relatable-do-you-have-to-be-7d269eeb57d2?source=rss-0facc4e2fda7------2)
 - [why do you always go back to your old habits?](https://medium.com/@mushroom111201/why-do-you-always-go-back-to-your-old-habits-742234e46524?source=rss-0facc4e2fda7------2)
 - [The Waiting Room](https://medium.com/@mushroom111201/the-waiting-room-d02fffd460ae?source=rss-0facc4e2fda7------2)
 - [The Days I Don’t Want to Be Around Anyone](https://medium.com/@mushroom111201/the-days-i-dont-want-to-be-around-anyone-c0bab9e1066e?source=rss-0facc4e2fda7------2)
 - [When does it get “BETTER”?](https://medium.com/@mushroom111201/when-does-it-get-better-6c34f027cf35?source=rss-0facc4e2fda7------2)
-- [Are you wasting your life?](https://medium.com/@mushroom111201/its-been-a-while-f6e6a9903923?source=rss-0facc4e2fda7------2)
 <!-- BLOG-POST-LIST:END -->
 ### ✍️ I quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Nothing%20changes%20if%20nothing%20changes&author=Unknown)
